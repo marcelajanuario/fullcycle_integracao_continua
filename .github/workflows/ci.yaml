@@ -28,4 +28,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: brsds/fullcycle_integracao_continua:latest
+          tags: brsds2000/fullcycle_integracao_continua:latest
